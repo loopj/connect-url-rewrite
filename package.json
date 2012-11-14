@@ -1,0 +1,12 @@
+{
+  "name": "connect-url-rewrite",
+  "version": "0.1.0",
+  "description": "Connect/Express middleware for rewriting URLs using regular expressions (like mod_rewrite).",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/loopj/connect-url-rewrite"
+  },
+  "author": "James Smith <james@loopj.com>",
+  "license": "MIT"
+}
